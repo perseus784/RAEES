@@ -1,0 +1,4 @@
+new keywords for a function can be added to the query-list by calling the "add_keyword" function.
+by mentioning this keyword in any sentence you can easily call that specific function and get answers.
+if a new function is added then the function name should be mentioned in "function_name" section of the DB.
+Since all of these are stored in a database file it is easy to import and upgrade.
