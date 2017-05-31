@@ -17,5 +17,5 @@ class "all_tools" can be modified for more custom functions and expansions.
 user can add a new custom keyword using "add keyword or add keywords" command
 the name of function should given for the keyword that is added.
 
-It uses a sql database to store your keywords and func names.....so you can copy that database
+It uses a sql database to store your keywords and func names. So you can copy that database
 and use it for future projects.
