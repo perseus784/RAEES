@@ -3,6 +3,9 @@ A gui assisstant for weather and maps using APIs
 Requires python and libraries such as googlemaps, json, sqlite3, pyttsx and some inbuilt libraries.
 It uses a simple keyword check and processes the query.
 
+<p align="center">
+<img src="gui.png" alt="gui" width="700">
+</p
 
 
 imp: API keys has to be obtained by the user for weather and googlemaps.
