@@ -32,4 +32,4 @@ and use it for future projects.
 Update: 20/07/2017
 Now you can control your home appliances using the Assistant by establishing a local network.
 All you need is a Wi-Fi router, ESP8266( varient are GPIO dependent), a Relay and some small time electrnic parts.
-**How to build it**
+[How to build it](https://github.com/perseus784/Iot-device-control)
