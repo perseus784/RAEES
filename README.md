@@ -5,9 +5,9 @@ RAEES
 **Rule-based Assistant and Explicitly Extensible System.**
 * *struggled to come up with it*
 
-A gui assisstant for weather and maps using APIs
-Requires python and libraries such as googlemaps, json, sqlite3, pyttsx and some inbuilt libraries.
-It uses a simple keyword check and processes the query.
+A gui assistant for weather and maps using APIs
+using python and libraries such as googlemaps, json, sqlite3, pyttsx and some inbuilts.
+It does a simple keyword check and processes the query.
 
 <p align="center">
 <img src="gui.png" alt="gui" width="700">
